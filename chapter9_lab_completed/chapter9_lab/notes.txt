@@ -1,0 +1,2 @@
+This file is used to compare staged and unstaged changes.
+Adding a second line for diff demonstration.
